@@ -10,6 +10,9 @@
     </description>
     <url type="homepage">https://github.com/madmaxms/theme-jade-1/</url>
     <releases>
+        <release version="1.12" date="2021-03-07">
+            <description>colour fine tunings, bugfixes</description>
+        </release>
         <release version="1.11" date="2021-01-24">
             <description>pathbar improvements, GNOME tray, Cinnamon calendar</description>
         </release>

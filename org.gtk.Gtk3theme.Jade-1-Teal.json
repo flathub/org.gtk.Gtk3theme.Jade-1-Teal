@@ -21,9 +21,9 @@
          "sources":[
             {
                "type":"file",
-               "url":"https://github.com/madmaxms/theme-jade-1/releases/download/v1.11/jade-1-theme.tar.xz",
+               "url":"https://github.com/madmaxms/theme-jade-1/releases/download/v1.12/jade-1-theme.tar.xz",
                "dest-filename": "jade-1-theme.tar.xz",
-               "sha256":"7ad30f15a7d68ecde3936d52aa316e923245fa4093ddf08cd354e80599af924a"
+               "sha256":"c8a71bc93ef871b1a9e422057c538f75d19dc8952f1fa19c5970afbbbd6b5cdd"
             }
          ]
       },
