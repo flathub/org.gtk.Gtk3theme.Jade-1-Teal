@@ -4,7 +4,7 @@
    "runtime":"org.freedesktop.Sdk",
    "build-extension":true,
    "sdk":"org.freedesktop.Sdk",
-   "runtime-version":"20.08",
+   "runtime-version":"21.08",
    "appstream-compose":false,
    "separate-locales":false,
    "modules":[
@@ -15,15 +15,17 @@
             "tar -xf jade-1-theme.tar.xz",
             "install -Dm644 Jade-1-Teal/gtk-3.20/gtk.css /usr/share/runtime/share/themes/Jade-1-Teal/gtk-3.0",
             "install -Dm644 Jade-1-Teal/gtk-3.0/colours.css /usr/share/runtime/share/themes/Jade-1-Teal/gtk-3.0",
+            "install -Dm644 Jade-1-Teal/gtk-3.0/colours-dark.css /usr/share/runtime/share/themes/Jade-1-Teal/gtk-3.0",
+            "install -Dm644 Jade-1-Teal/gtk-3.20/gtk-dark.css /usr/share/runtime/share/themes/Jade-1-Teal/gtk-3.0",
             "install -Dm644 --target-directory=/usr/share/runtime/share/themes/Jade-1-Teal/gtk-3.0/assets Jade-1-Teal/gtk-3.0/assets/*",
             "install -Dm644 Jade-1-Teal/index.theme /usr/share/runtime/share/themes/Jade-1-Teal/index.theme"
          ],
          "sources":[
             {
                "type":"file",
-               "url":"https://github.com/madmaxms/theme-jade-1/releases/download/v1.12/jade-1-theme.tar.xz",
+               "url":"https://github.com/madmaxms/theme-jade-1/releases/download/v1.14/jade-1-theme.tar.xz",
                "dest-filename": "jade-1-theme.tar.xz",
-               "sha256":"c8a71bc93ef871b1a9e422057c538f75d19dc8952f1fa19c5970afbbbd6b5cdd"
+               "sha256":"6ddfabc47825c003768c96f2fa1df01854f88d85361e9f94422c34e31f78e106"
             }
          ]
       },
