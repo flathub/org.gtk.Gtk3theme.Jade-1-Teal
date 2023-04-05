@@ -10,6 +10,9 @@
     </description>
     <url type="homepage">https://github.com/madmaxms/theme-jade-1/</url>
     <releases>
+        <release version="1.15" date="2023-03-12">
+            <description>box-shadows, menu-separators, minor bugfixes</description>
+        </release>
         <release version="1.14" date="2021-10-22">
             <description>introduced dark mode</description>
         </release>
